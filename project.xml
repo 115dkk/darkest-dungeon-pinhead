@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/Data/</ModDataPath>
+	<Title>pinhead class mod</Title>
+	<Language>english</Language>
+	<UpdateDetails>first udating version</UpdateDetails>
+	<Visibility>private</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Character Mod</Tags>
+		<Tags>Healer</Tags>
+		<Tags>Stress Healer</Tags>
+		<Tags>Bleed</Tags>
+		<Tags>Class Mod</Tags>
+	</Tags>
+	<ItemDescription>new class - hellraiser&apos;s cenobite -pinhead
+	1.Description
+	Hello everyone! I made new class mod with Pinhead character from 1987&apos; horror movie - Hellraiser. It is not finished yet but I will improve by receiving feedback. So please send me a lot of impressions. My english is not good. so I did not translate my mod yet. I will fix it soon. 
+	2.Tanks to
+	Korean DarkestDungeon online community - DCinside 다키스트 던전 마이너 갤러리
+	Character skill sounds - 야호(116.127)
+	Balancing advice - Deme(112.167)
+	Character motion - ㅇㅇ(119.197)
+	and everyone...
+	</ItemDescription>
+	<PublishedFileId>2066750662</PublishedFileId>
+</project>
+

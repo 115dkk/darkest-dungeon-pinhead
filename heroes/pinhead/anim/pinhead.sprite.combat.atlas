@@ -1,0 +1,209 @@
+
+pinhead.sprite.combat.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abdomen
+  rotate: false
+  xy: 487, 261
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+ball01
+  rotate: false
+  xy: 630, 319
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+ball02
+  rotate: true
+  xy: 737, 387
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+ball03
+  rotate: false
+  xy: 924, 380
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 667, 446
+  size: 183, 64
+  orig: 183, 64
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 188, 148
+  size: 168, 90
+  orig: 168, 90
+  offset: 0, 0
+  index: -1
+dagger
+  rotate: false
+  xy: 308, 287
+  size: 177, 158
+  orig: 177, 158
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 2, 100
+  size: 184, 216
+  orig: 184, 216
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 375, 192
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+left_coat
+  rotate: true
+  xy: 852, 436
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 181, 24
+  size: 99, 45
+  orig: 99, 45
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: true
+  xy: 476, 186
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+left_index
+  rotate: true
+  xy: 734, 349
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+left_middle
+  rotate: false
+  xy: 696, 344
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+left_pauldron
+  rotate: true
+  xy: 188, 71
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+left_pinky
+  rotate: true
+  xy: 375, 158
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 135, 2
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+right_coat
+  rotate: false
+  xy: 487, 317
+  size: 141, 128
+  orig: 141, 128
+  offset: 0, 0
+  index: -1
+right_forearm
+  rotate: true
+  xy: 282, 2
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: true
+  xy: 285, 65
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+right_index
+  rotate: true
+  xy: 809, 395
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+right_middle
+  rotate: false
+  xy: 970, 459
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+right_pauldron
+  rotate: false
+  xy: 2, 2
+  size: 131, 96
+  orig: 131, 96
+  offset: 0, 0
+  index: -1
+right_pinky
+  rotate: true
+  xy: 852, 386
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+right_thumb
+  rotate: true
+  xy: 418, 160
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+robe
+  rotate: false
+  xy: 2, 318
+  size: 304, 192
+  orig: 304, 192
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 630, 395
+  size: 105, 49
+  orig: 105, 49
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 308, 447
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tunic
+  rotate: false
+  xy: 280, 162
+  size: 93, 123
+  orig: 93, 123
+  offset: 0, 0
+  index: -1

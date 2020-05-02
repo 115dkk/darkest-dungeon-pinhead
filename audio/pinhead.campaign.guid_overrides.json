@@ -1,0 +1,18 @@
+{
+    "event_guid_overrides":
+    [
+
+		{"event_id": "event:/char/ally/pinhead_taste_our_pleasure",						"guid_override":"{0e843ca6-0d8d-4ef8-9e6b-223421edf61e}"},
+		{"event_id": "event:/char/ally/pinhead_taste_our_pleasure_miss",				"guid_override":"{e00f3e8d-1e15-48d7-9614-7af7d017530f}"},
+		{"event_id": "event:/char/ally/pinhead_result_of_desire",						"guid_override":"{8f2587f9-2581-4ff0-8357-e8200bbb4853}"},
+		{"event_id": "event:/char/ally/pinhead_result_of_desire_miss",					"guid_override":"{c6a98137-ff29-4ab1-9c22-7a311d97e519}"},
+		{"event_id": "event:/char/ally/pinhead_sweet_suffering",						"guid_override":"{c51d6fc2-4beb-4b00-a403-e8de026e0479}"},
+		{"event_id": "event:/char/ally/pinhead_no_tears_please",						"guid_override":"{54395239-d4e2-454e-8b7e-db29ebb1c6b0}"},
+		{"event_id": "event:/char/ally/pinhead_you_solved_the_box",						"guid_override":"{134e7652-85ff-4b43-8702-cf54d6528acd}"},
+		{"event_id": "event:/char/ally/pinhead_you_solved_the_box_miss",				"guid_override":"{6bfa28a6-5e49-45f7-8250-0761f08484d4}"},
+		{"event_id": "event:/char/ally/pinhead_bring_me_the_flesh",						"guid_override":"{30135aab-ef90-45b7-83fc-99f325a33093}"},
+		{"event_id": "event:/char/ally/pinhead_bring_me_the_flesh_miss",				"guid_override":"{56372479-1b53-45ee-a08e-dd102bd2c4ea}"},
+		{"event_id": "event:/char/ally/pinhead_come_to_daddy",							"guid_override":"{eedeaaf8-744a-4025-8b09-2a0391f64b7c}"},
+		{"event_id": "event:/char/ally/pinhead_come_to_daddy_miss",						"guid_override":"{52e3f4f9-9777-43b6-b7a8-d75dc376313f}"}
+    ]
+}

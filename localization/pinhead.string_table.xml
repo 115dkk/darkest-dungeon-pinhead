@@ -1,0 +1,254 @@
+﻿<root>
+  <language id="english">
+    <entry id="hero_class_name_pinhead"><![CDATA[Pinhead]]></entry>
+    <entry id="upgrade_tree_name_pinhead.weapon"><![CDATA[Torture tools]]></entry>
+    <entry id="upgrade_tree_name_pinhead.armour"><![CDATA[The box]]></entry>
+    <entry id="pinhead_armour_0"><![CDATA[Old puzzle box]]></entry>
+    <entry id="pinhead_armour_1"><![CDATA[Puzzle box step 1]]></entry>
+    <entry id="pinhead_armour_2"><![CDATA[Puzzle box step 2]]></entry>
+    <entry id="pinhead_armour_3"><![CDATA[Puzzle box step 3]]></entry>
+    <entry id="pinhead_armour_4"><![CDATA["The gate of the hell"]]></entry>
+    <entry id="pinhead_weapon_0"><![CDATA[Old torture tools]]></entry>
+    <entry id="pinhead_weapon_1"><![CDATA[Rusty torture tools]]></entry>
+    <entry id="pinhead_weapon_2"><![CDATA[Blood-stained torture tools]]></entry>
+    <entry id="pinhead_weapon_3"><![CDATA[Sharpened torture tools]]></entry>
+    <entry id="pinhead_weapon_4"><![CDATA["The key of the heaven"]]></entry>
+	
+    <entry id="combat_skill_name_pinhead_taste_our_pleasure"><![CDATA[Taste our pleasure]]></entry>
+    <entry id="combat_skill_name_pinhead_result_of_desire"><![CDATA[The result of desire]]></entry>
+    <entry id="combat_skill_name_pinhead_sweet_suffering"><![CDATA[Sweet suffering]]></entry>
+    <entry id="combat_skill_name_pinhead_no_tears_please"><![CDATA[No tears please]]></entry>
+    <entry id="combat_skill_name_pinhead_you_solved_the_box"><![CDATA[You solved the box]]></entry>
+    <entry id="combat_skill_name_pinhead_bring_me_the_flesh"><![CDATA[Bring me the flesh]]></entry>
+    <entry id="combat_skill_name_pinhead_come_to_daddy"><![CDATA[Come to daddy]]></entry>
+    <entry id="combat_skill_name_pinhead_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_pinhead.taste_our_pleasure"><![CDATA[Taste our pleasure]]></entry>
+    <entry id="upgrade_tree_name_pinhead.result_of_desire"><![CDATA[The result of desire]]></entry>
+    <entry id="upgrade_tree_name_pinhead.sweet_suffering"><![CDATA[Sweet suffering]]></entry>
+    <entry id="upgrade_tree_name_pinhead.no_tears_please"><![CDATA[No tears please]]></entry>
+    <entry id="upgrade_tree_name_pinhead.you_solved_the_box"><![CDATA[You solved the box]]></entry>
+    <entry id="upgrade_tree_name_pinhead.bring_me_the_flesh"><![CDATA[Bring me the flesh]]></entry>
+    <entry id="upgrade_tree_name_pinhead.come_to_daddy"><![CDATA[Come to daddy]]></entry>
+    <entry id="camping_skill_name_sleeping_puzzle"><![CDATA[Sleeping puzzle]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[Suffer %d DMG]]></entry>
+    <entry id="skill_performer_hp_min"><![CDATA[Valid above %d%% HP]]></entry>
+	
+    <entry id="buff_rule_data_tooltip_pinhead.taste_our_pleasure"><![CDATA[taste our pleasure]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.result_of_desire"><![CDATA[result of desire]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.sweet_suffering"><![CDATA[sweet suffering]]></entry>
+    <entry id="buff_rule_tooltip_skill_false"><![CDATA[Except %s:%s]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.no_tears_please"><![CDATA[no tears please]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead"><![CDATA[Pinhead]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.you_solved_the_box"><![CDATA[you solved the box]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.bring_me_the_flesh"><![CDATA[bring me the flesh]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.come_to_daddy"><![CDATA[pinhead.come_to_daddy]]></entry>
+
+	
+    <entry id="action_verbose_body_guild_pinhead"><![CDATA[The cenobites of pain and pleasure, represented by Pinhead, are called devils for someone and angels for others. These are unknown beings whose origin is unknown, and they present pain or pleasure unbearable by humans. Someone will find joy in endless pain, and some may hold their lives with Pinhead's torture skills. It can also be a life-threatening attack on an enemy. However, all this requires some blood and flesh.]]></entry>
+    <entry id="action_verbose_body_blacksmith_pinhead"><![CDATA[Pinhead, whose origins are unknown, use tools that, like their owners, do not know where they were made. What a blacksmith can do is fill the scratches. But that seems to be enough.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_pinhead"><![CDATA[It is known as the pinhead that leads the cenobites of pain and pleasure. The pain or pleasure they offer is only given to the person who opened the box.]]></entry>
+    <entry id="town_event_title_first_pinhead"><![CDATA[There came a man who claimed pain and pleasure are one.]]></entry>
+    <entry id="town_event_title_bonus_recruit_pinhead"><![CDATA[Someone opened the box.]]></entry>
+    <entry id="town_event_description_first_pinhead"><![CDATA[Their purpose is just to give their gift to the person who opened the box. They don't care if the gift is a pain or a pleasure.]]></entry>
+    <entry id="town_event_description_bonus_recruit_pinhead"><![CDATA[A box was opened to call cenobites from anywhere in the world. Cenobites will deserve to punish or reward them.]]></entry>
+	
+    <entry id="str_bark_sleeping_puzzle"><![CDATA[...]]></entry>
+	<entry id="str_incompatible_party_flagellant_fuck"><![CDATA[고통에서는 빛도 어둠도 찾을 수 없다.]]></entry>
+    <entry id="str_incompatible_party_member_flagellant_fuck"><![CDATA[이건 빛의 인도가 아니야...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[고통...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[아, 고통이여... 달콤한 고통이여.]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[즐길 시간이다.]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[고통인가? 쾌락인가? 개인적으로 난 고통을 선호하지.]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[제발 울지 마라. 그건 멋진 고통을 낭비하는 거다.]]></entry>
+
+    <entry id="pinhead+str_bark_stress_masochistic"><![CDATA[이것이 우리의 쾌락이다...]]></entry>
+
+    <entry id="pinhead+str_change_pos_fwd_masochistic"><![CDATA[내가 길이다.]]></entry>
+
+	<entry id="pinhead+str_ignore_command_masochistic"><![CDATA[나의 즐거움을 방해하지 마라.]]></entry>
+
+	<entry id="pinhead+str_random_command_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_mark_self_masochistic"><![CDATA[놀이 시간이다...]]></entry>
+
+	<entry id="pinhead+str_attack_self_masochistic"><![CDATA[계속해.]]></entry>
+
+    <entry id="pinhead+str_block_combat_retreat_masochistic"><![CDATA[너에게 보여주고 싶은 것이 있다...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_hit_masochistic"><![CDATA[하!하하하하!]]></entry>
+
+	<entry id="pinhead+str_comment_self_missed_masochistic"><![CDATA[(달콤한 고통을 가져와라...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_hit_masochistic"><![CDATA[적에게 기쁨을 선사하다니...]]></entry>
+
+	<entry id="pinhead+str_block_move_masochistic"><![CDATA[더는 미룰 수 없다]]></entry>
+
+	<entry id="pinhead+str_block_item_masochistic"><![CDATA[흥정은 더 이상 없다.]]></entry>
+
+    <entry id="pinhead+str_block_heal_masochistic"><![CDATA[그 누구도 나의 즐거움을 방해할 수 없어.]]></entry>
+
+    <entry id="pinhead+str_block_buff_masochistic"><![CDATA[그만.]]></entry>
+    
+
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[*상자가 덜그덕 거리는 소리*]]></entry>
+
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[*상자가 열리는 소리*]]></entry>
+
+    <entry id="pinhead+str_block_camping_meal_masochistic"><![CDATA[*상자가 삐그덕 거리는 소리*]]></entry>
+
+    <entry id="pinhead+str_critbyhero"><![CDATA[상자가 열렸고... 우리가 왔다...!]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[너의 영혼을 갈갈히 찢어주겠다!]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[너의 육신을 헤집을 영겁의 시간이 있다.]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[선이나 악의 문제가 아니야.]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[너를 즐겁게 만들길 즐기마!]]></entry>
+
+
+    <entry id="pinhead+str_monster_attack_unholy_smite"><![CDATA[고통을 즐기지 못하는 존재구나...]]></entry>
+    <entry id="pinhead+str_prisoner_damage_cauldron_full"><![CDATA[육신을 끓이는 것도 색다른 즐거움이구나...]]></entry>
+	<entry id="pinhead+str_control_before_turn_siren"><![CDATA[이쪽이 더 쾌감을 줄 것 같군.]]></entry>
+	<entry id="pinhead+str_control_return_siren"><![CDATA[착각했군. 저쪽에 가면 내게 고통을 주지 않아.]]></entry>
+    <entry id="pinhead+str_prisoner_damage_drowned_anchored"><![CDATA[구속 플레이는 흥미 없다.]]></entry>
+	<entry id="pinhead+str_bark_hp_heal_dot"><![CDATA[더 오래 즐길 수 있겠어.]]></entry>
+	<entry id="pinhead+str_heart_attack"><![CDATA[이제... 충분하다...]]></entry>
+	<entry id="pinhead+str_heart_attack_masochistic"><![CDATA[만족스러운 고통이다!]]></entry>
+	<entry id="pinhead+str_monster_attack_unholy_judgement"><![CDATA[이들은 날 만족시킬 수 없다...]]></entry>
+    <entry id="pinhead+str_monster_attack_unholy_curse"><![CDATA[엘리엇 스펜서...? 그게 누구지...?]]></entry>
+	<entry id="pinhead+str_monster_attack_obliterate_enraged"><![CDATA[저 조그만 놈을 죽이면 더 즐겁겠군...]]></entry>
+	<entry id="pinhead+str_monster_attack_light_fuse"><![CDATA[온다! 크나 큰 쾌감이...!]]></entry>
+	<entry id="pinhead+str_monster_attack_prophet_mark"><![CDATA[헬레이저...10...?]]></entry>
+
+
+    <entry id="pinhead+str_monster_user_selected_targets_kill_pill"><![CDATA[상자가...닫힌다...]]></entry>
+
+    <entry id="pinhead+str_bark_deathsdoor"><![CDATA[상자가 열리면... 난 다시 돌아온다...]]></entry>
+	
+  </language>
+  <language id="koreana">
+    <entry id="hero_class_name_pinhead"><![CDATA[핀헤드]]></entry>
+    <entry id="upgrade_tree_name_pinhead.weapon"><![CDATA[고문 도구]]></entry>
+    <entry id="upgrade_tree_name_pinhead.armour"><![CDATA[상자]]></entry>
+    <entry id="pinhead_armour_0"><![CDATA[오래된 퍼즐 박스]]></entry>
+    <entry id="pinhead_armour_1"><![CDATA[1단계 퍼즐 박스]]></entry>
+    <entry id="pinhead_armour_2"><![CDATA[2단계 퍼즐 박스]]></entry>
+    <entry id="pinhead_armour_3"><![CDATA[3단계 퍼즐 박스]]></entry>
+    <entry id="pinhead_armour_4"><![CDATA["지옥의 문"]]></entry>
+    <entry id="pinhead_weapon_0"><![CDATA[오래된 고문 도구]]></entry>
+    <entry id="pinhead_weapon_1"><![CDATA[녹슬은 고문 도구]]></entry>
+    <entry id="pinhead_weapon_2"><![CDATA[피에 물든 고문 도구]]></entry>
+    <entry id="pinhead_weapon_3"><![CDATA[날카로운 고문 도구]]></entry>
+    <entry id="pinhead_weapon_4"><![CDATA["천국의 열쇠"]]></entry>
+	
+    <entry id="combat_skill_name_pinhead_taste_our_pleasure"><![CDATA[우리의 쾌락을 맛봐라]]></entry>
+    <entry id="combat_skill_name_pinhead_result_of_desire"><![CDATA[욕망의 결과]]></entry>
+    <entry id="combat_skill_name_pinhead_sweet_suffering"><![CDATA[달콤한 고통]]></entry>
+    <entry id="combat_skill_name_pinhead_no_tears_please"><![CDATA[눈물을 아껴라]]></entry>
+    <entry id="combat_skill_name_pinhead_you_solved_the_box"><![CDATA[상자를 열었구나]]></entry>
+    <entry id="combat_skill_name_pinhead_bring_me_the_flesh"><![CDATA[내게 살점을 가져와라]]></entry>
+    <entry id="combat_skill_name_pinhead_come_to_daddy"><![CDATA[아빠에게 오렴]]></entry>
+    <entry id="combat_skill_name_pinhead_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_pinhead.taste_our_pleasure"><![CDATA[우리의 쾌락을 맛봐라]]></entry>
+    <entry id="upgrade_tree_name_pinhead.result_of_desire"><![CDATA[욕망의 결과]]></entry>
+    <entry id="upgrade_tree_name_pinhead.sweet_suffering"><![CDATA[달콤한 고통]]></entry>
+    <entry id="upgrade_tree_name_pinhead.no_tears_please"><![CDATA[눈물을 아껴라]]></entry>
+    <entry id="upgrade_tree_name_pinhead.you_solved_the_box"><![CDATA[상자를 열었구나]]></entry>
+    <entry id="upgrade_tree_name_pinhead.bring_me_the_flesh"><![CDATA[내게 살점을 가져와라]]></entry>
+    <entry id="upgrade_tree_name_pinhead.come_to_daddy"><![CDATA[아빠에게 오렴]]></entry>
+    <entry id="camping_skill_name_sleeping_puzzle"><![CDATA[잠든 상자]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[Suffer %d DMG]]></entry>
+    <entry id="skill_performer_hp_min"><![CDATA[Valid above %d%% HP]]></entry>
+	
+    <entry id="buff_rule_data_tooltip_pinhead.taste_our_pleasure"><![CDATA[taste our pleasure]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.result_of_desire"><![CDATA[result of desire]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.sweet_suffering"><![CDATA[sweet suffering]]></entry>
+    <entry id="buff_rule_tooltip_skill_false"><![CDATA[Except %s:%s]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.no_tears_please"><![CDATA[no tears please]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead"><![CDATA[Pinhead]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.you_solved_the_box"><![CDATA[you solved the box]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.bring_me_the_flesh"><![CDATA[bring me the flesh]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead.come_to_daddy"><![CDATA[pinhead.come_to_daddy]]></entry>
+
+	
+    <entry id="action_verbose_body_guild_pinhead"><![CDATA[핀헤드로 대표되는 고통과 쾌락의 수도사들은 누군가에겐 악마로, 다른 누군가에겐 천사라 불립니다. 이들은 근원을 알 수 없는 미지의 존재이며, 인간으로선 견딜 수 없는 고통 혹은 쾌락을 선사합니다. 누군가는 끝없는 고통속에서 희열을 찾을 것이고, 누군가는 핀헤드의 고문기술로 목숨을 부지할 수도 있습니다. 또한 적에게는 목숨을 빼앗는 공격이 될 수도 있습니다. 다만 이 모든 것에는 다소의 피와 살점이 필요합니다.]]></entry>
+    <entry id="action_verbose_body_blacksmith_pinhead"><![CDATA[어디에서 온지 알 수 없는 핀헤드는, 그 주인과 마찬가지로 어디에서 만들어졌는지 알 수 없는 도구들을 사용합니다. 대장장이가 할 수 있는 일은 흠집을 메우는 정도일 것입니다. 다만 그 정도로 충분한 것 같습니다.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_pinhead"><![CDATA[고통과 쾌락의 수도사들을 이끄는 이는 핀헤드라고 알려져 있습니다. 이들이 선사하는 고통 혹은 쾌락은 오로지 상자를 연 자에게만 주어집니다.]]></entry>
+    <entry id="town_event_title_first_pinhead"><![CDATA[고통과 쾌락은 하나라 주장하는 이가 찾아왔습니다.]]></entry>
+    <entry id="town_event_title_bonus_recruit_pinhead"><![CDATA[누군가 상자를 열었습니다]]></entry>
+    <entry id="town_event_description_first_pinhead"><![CDATA[그들의 목적은 단지 상자를 연 사람에게 그들의 선물을 선사하는 것입니다. 그 선물이 괴로울지 즐거울지는 신경쓰지 않습니다.]]></entry>
+    <entry id="town_event_description_bonus_recruit_pinhead"><![CDATA[세계 어느곳에서 수도사들을 부르는 상자가 열렸습니다. 수도사들은 마땅히 징벌 혹은 포상을 하러 떠날 것입니다.]]></entry>
+	
+    <entry id="str_bark_sleeping_puzzle"><![CDATA[...]]></entry>
+	<entry id="str_incompatible_party_flagellant_fuck"><![CDATA[고통에서는 빛도 어둠도 찾을 수 없다.]]></entry>
+    <entry id="str_incompatible_party_member_flagellant_fuck"><![CDATA[이건 빛의 인도가 아니야...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[고통...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[아, 고통이여... 달콤한 고통이여.]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[즐길 시간이다.]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[고통인가? 쾌락인가? 개인적으로 난 고통을 선호하지.]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[제발 울지 마라. 그건 멋진 고통을 낭비하는 거다.]]></entry>
+
+    <entry id="pinhead+str_bark_stress_masochistic"><![CDATA[이것이 우리의 쾌락이다...]]></entry>
+
+    <entry id="pinhead+str_change_pos_fwd_masochistic"><![CDATA[내가 길이다.]]></entry>
+
+	<entry id="pinhead+str_ignore_command_masochistic"><![CDATA[나의 즐거움을 방해하지 마라.]]></entry>
+
+	<entry id="pinhead+str_random_command_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_mark_self_masochistic"><![CDATA[놀이 시간이다...]]></entry>
+
+	<entry id="pinhead+str_attack_self_masochistic"><![CDATA[계속해.]]></entry>
+
+    <entry id="pinhead+str_block_combat_retreat_masochistic"><![CDATA[너에게 보여주고 싶은 것이 있다...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_hit_masochistic"><![CDATA[하!하하하하!]]></entry>
+
+	<entry id="pinhead+str_comment_self_missed_masochistic"><![CDATA[(달콤한 고통을 가져와라...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_hit_masochistic"><![CDATA[적에게 기쁨을 선사하다니...]]></entry>
+
+	<entry id="pinhead+str_block_move_masochistic"><![CDATA[더는 미룰 수 없다]]></entry>
+
+	<entry id="pinhead+str_block_item_masochistic"><![CDATA[흥정은 더 이상 없다.]]></entry>
+
+    <entry id="pinhead+str_block_heal_masochistic"><![CDATA[그 누구도 나의 즐거움을 방해할 수 없어.]]></entry>
+
+    <entry id="pinhead+str_block_buff_masochistic"><![CDATA[그만.]]></entry>
+    
+
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[*상자가 덜그덕 거리는 소리*]]></entry>
+
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[*상자가 열리는 소리*]]></entry>
+
+    <entry id="pinhead+str_block_camping_meal_masochistic"><![CDATA[*상자가 삐그덕 거리는 소리*]]></entry>
+
+    <entry id="pinhead+str_critbyhero"><![CDATA[상자가 열렸고... 우리가 왔다...!]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[너의 영혼을 갈갈히 찢어주겠다!]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[너의 육신을 헤집을 영겁의 시간이 있다.]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[선이나 악의 문제가 아니야.]]></entry>
+    <entry id="pinhead+str_critbyhero"><![CDATA[너를 즐겁게 만들길 즐기마!]]></entry>
+
+
+    <entry id="pinhead+str_monster_attack_unholy_smite"><![CDATA[고통을 즐기지 못하는 존재구나...]]></entry>
+    <entry id="pinhead+str_prisoner_damage_cauldron_full"><![CDATA[육신을 끓이는 것도 색다른 즐거움이구나...]]></entry>
+	<entry id="pinhead+str_control_before_turn_siren"><![CDATA[이쪽이 더 쾌감을 줄 것 같군.]]></entry>
+	<entry id="pinhead+str_control_return_siren"><![CDATA[착각했군. 저쪽에 가면 내게 고통을 주지 않아.]]></entry>
+    <entry id="pinhead+str_prisoner_damage_drowned_anchored"><![CDATA[구속 플레이는 흥미 없다.]]></entry>
+	<entry id="pinhead+str_bark_hp_heal_dot"><![CDATA[더 오래 즐길 수 있겠어.]]></entry>
+	<entry id="pinhead+str_heart_attack"><![CDATA[이제... 충분하다...]]></entry>
+	<entry id="pinhead+str_heart_attack_masochistic"><![CDATA[만족스러운 고통이다!]]></entry>
+	<entry id="pinhead+str_monster_attack_unholy_judgement"><![CDATA[이들은 날 만족시킬 수 없다...]]></entry>
+    <entry id="pinhead+str_monster_attack_unholy_curse"><![CDATA[엘리엇 스펜서...? 그게 누구지...?]]></entry>
+	<entry id="pinhead+str_monster_attack_obliterate_enraged"><![CDATA[저 조그만 놈을 죽이면 더 즐겁겠군...]]></entry>
+	<entry id="pinhead+str_monster_attack_light_fuse"><![CDATA[온다! 크나 큰 쾌감이...!]]></entry>
+	<entry id="pinhead+str_monster_attack_prophet_mark"><![CDATA[헬레이저...10...?]]></entry>
+
+
+    <entry id="pinhead+str_monster_user_selected_targets_kill_pill"><![CDATA[상자가...닫힌다...]]></entry>
+
+    <entry id="pinhead+str_bark_deathsdoor"><![CDATA[상자가 열리면... 난 다시 돌아온다...]]></entry>
+	
+  </language>
+ </root>

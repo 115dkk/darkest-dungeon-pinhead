@@ -1,0 +1,762 @@
+﻿<root>
+  <language id="english">
+    <entry id="hero_class_name_pinhead"><![CDATA[Pinhead]]></entry>
+    <entry id="upgrade_tree_name_monk.weapon"><![CDATA[Sword]]></entry>
+    <entry id="upgrade_tree_name_monk.armour"><![CDATA[Armor]]></entry>
+    <entry id="pinhead_armour_0"><![CDATA[Ragged Armor]]></entry>
+    <entry id="pinhead_armour_1"><![CDATA[Worn Armor]]></entry>
+    <entry id="pinhead_armour_2"><![CDATA[Repaired Armor]]></entry>
+    <entry id="pinhead_armour_3"><![CDATA[Coated Armor]]></entry>
+    <entry id="pinhead_armour_4"><![CDATA["Integration"]]></entry>
+    <entry id="pinhead_weapon_0"><![CDATA[Broken Sword]]></entry>
+    <entry id="pinhead_weapon_1"><![CDATA[Damaged Sword]]></entry>
+    <entry id="pinhead_weapon_2"><![CDATA[Recovered Sword]]></entry>
+    <entry id="pinhead_weapon_3"><![CDATA[Perfect Sword]]></entry>
+    <entry id="pinhead_weapon_4"><![CDATA["Niflheim"]]></entry>
+	
+    <entry id="combat_skill_name_taste_our_pleasure"><![CDATA[taste our pleasure]]></entry>
+    <entry id="combat_skill_name_result_of_desire"><![CDATA[result of desire]]></entry>
+    <entry id="combat_skill_name_sweet_suffering"><![CDATA[sweet suffering]]></entry>
+    <entry id="combat_skill_name_no_tears_please"><![CDATA[no tears please]]></entry>
+    <entry id="combat_skill_name_you_solved_the_box"><![CDATA[you solved the box]]></entry>
+    <entry id="combat_skill_name_bring_me_the_flesh"><![CDATA[bring me the flesh]]></entry>
+    <entry id="combat_skill_name_come_to_daddy"><![CDATA[come to daddy]]></entry>
+    <entry id="combat_skill_name_pinhead_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_taste_our_pleasure"><![CDATA[taste our pleasure]]></entry>
+    <entry id="upgrade_tree_name_result_of_desire"><![CDATA[result of desire]]></entry>
+    <entry id="upgrade_tree_name_sweet_suffering"><![CDATA[sweet suffering]]></entry>
+    <entry id="upgrade_tree_name_no_tears_please"><![CDATA[no tears please]]></entry>
+    <entry id="upgrade_tree_name_you_solved_the_box"><![CDATA[you solved the box]]></entry>
+    <entry id="upgrade_tree_name_bring_me_the_flesh"><![CDATA[bring me the flesh]]></entry>
+    <entry id="upgrade_tree_name_come_to_daddy"><![CDATA[come to daddy]]></entry>
+    <entry id="camping_skill_name_dust_off"><![CDATA[Dust Off]]></entry>
+    <entry id="camping_skill_name_face_open"><![CDATA[Face Open]]></entry>
+    <entry id="camping_skill_name_filling_hole"><![CDATA[Filling Hole]]></entry>
+    <entry id="camping_skill_name_insomnia"><![CDATA[Insomnia]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[Suffer %d DMG]]></entry>
+    <entry id="skill_performer_hp_min"><![CDATA[Valid above %d%% HP]]></entry>
+	
+    <entry id="buff_rule_data_tooltip_charge"><![CDATA[Charge]]></entry>
+    <entry id="buff_rule_data_tooltip_slash"><![CDATA[Slash]]></entry>
+    <entry id="buff_rule_data_tooltip_warcry"><![CDATA[War Cry]]></entry>
+    <entry id="buff_rule_tooltip_skill_false"><![CDATA[Except %s:%s]]></entry>
+    <entry id="buff_rule_data_tooltip_dogfight"><![CDATA[Dogfight]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead"><![CDATA[Hollow Knight]]></entry>
+    <entry id="buff_rule_data_tooltip_heartbeat"><![CDATA[Stillness of Heart]]></entry>
+    <entry id="buff_rule_data_tooltip_feareater"><![CDATA[Fear Eater]]></entry>
+    <entry id="buff_rule_data_tooltip_tombstones"><![CDATA[Tombstones]]></entry>
+	
+    <entry id="action_verbose_body_guild_pinhead"><![CDATA[   ]]></entry>
+    <entry id="action_verbose_body_blacksmith_pinhead"><![CDATA[   ]]></entry>
+    <entry id="action_verbose_body_camping_trainer_pinhead"><![CDATA[   ]]></entry>
+    <entry id="town_event_title_first_pinhead"><![CDATA[The dispatched knight came back from the farm.]]></entry>
+    <entry id="town_event_title_bonus_recruit_pinhead"><![CDATA[The dispatched knight came back from the farm.]]></entry>
+    <entry id="town_event_description_first_pinhead"><![CDATA[The dispatched knight has returned to an unusual mood.]]></entry>
+    <entry id="town_event_description_bonus_recruit_pinhead"><![CDATA[The dispatched knight has returned to an unusual mood.]]></entry>
+	
+    <entry id="str_bark_dust_off"><![CDATA[...]]></entry>
+    <entry id="str_bark_face_open"><![CDATA[Do not be surprised to see.]]></entry>
+    <entry id="str_bark_filling_hole"><![CDATA[Block the hole again...]]></entry>
+    <entry id="str_bark_insomnia"><![CDATA[I will sleep later....]]></entry>
+    <entry id="pinhead+str_bark_encourage"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_encourage"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_encourage"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_first_aid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_first_aid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_first_aid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_abusive"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_selfish"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_virtued_stalwart"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_stalwart"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_virtued_courageous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_courageous"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_virtued_focused"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_focused"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_virtued_powerful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_powerful"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_virtued_vigorous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_vigorous"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_stress_heal_self_stalwart"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_stress_heal_self_stalwart"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_stress_heal_party_courageous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_stress_heal_party_courageous"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_buff_random_party_member_focused"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_buff_random_party_member_focused"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_buff_party_powerful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_buff_party_powerful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_heal_self_vigorous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_heal_self_vigorous"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_stress_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_stress_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_paranoid"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_bark_stress_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_abusive"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_bark_stress_selfish"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_bark_stress_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_irrational"><![CDATA[...]]></entry>	
+
+    <entry id="pinhead+str_change_pos_back_fearful"><![CDATA[...]]></entry>	
+
+    <entry id="pinhead+str_change_pos_back_paranoid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_change_pos_fwd_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_change_pos_fwd_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_change_pos_back_irrational"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_fwd_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_depressed"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_back_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_depressed"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_fwd_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_selfish"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_back_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_selfish"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_fearful"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_paranoid"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_selfish"><![CDATA[]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_depressed"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_ignore_command_irrational"><![CDATA[]]></entry>
+
+	<entry id="pinhead+str_random_command_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_abusive"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_selfish"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_random_command_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_camp_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_camp_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_abusive"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_selfish"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_camp_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_mark_self_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_mark_self_depressed"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_mark_self_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_attack_self_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_attack_self_depressed"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_attack_self_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_combat_retreat_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_combat_retreat_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_block_combat_retreat_masochistic"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_block_combat_retreat_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_self_hit_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_hit_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_self_hit_selfish"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_self_hit_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_self_hit_irrational"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_missed_fearful"><![CDATA[...]]></entry>
+
+    
+	<entry id="pinhead+str_comment_self_missed_paranoid"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_missed_masochistic"><![CDATA[...]]></entry>
+
+    
+    <entry id="pinhead+str_comment_self_missed_irrational"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_comment_ally_attack_hit_selfish"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_comment_ally_attack_hit_abusive"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_attack_hit_irrational"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_comment_ally_attack_missed_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_ally_attack_missed_paranoid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_ally_attack_missed_abusive"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_attack_missed_selfish"><![CDATA[...?]]></entry>
+    
+
+    <entry id="pinhead+str_comment_ally_attack_missed_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_hit_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_ally_hit_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_hit_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_hit_abusive"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_ally_hit_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_missed_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_ally_missed_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_missed_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_block_move_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_abusive"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_depressed"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_block_heal_paranoid"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_heal_masochistic"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_heal_depressed"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_heal_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_buff_paranoid"><![CDATA[...]]></entry>
+	
+
+    <entry id="pinhead+str_block_buff_masochistic"><![CDATA[...]]></entry>
+    
+
+    <entry id="pinhead+str_block_buff_depressed"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_buff_irrational"><![CDATA[...]]></entry>
+  
+	<entry id="pinhead+str_block_camping_skill_performer_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_abusive"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_block_camping_skill_target_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_irrational"><![CDATA[...]]></entry>
+	<entry id="pinhead+str_block_camping_meal_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_meal_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_meal_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_meal_masochistic"><![CDATA[...]]></entry>
+    <entry id="seraph+str_block_camping_meal_depressed"><![CDATA[...]]></entry>
+    <entry id="seraph+str_block_camping_meal_depressed"><![CDATA[...]]></entry>
+	<entry id="pinhead+str_block_camping_meal_irrational"><![CDATA[...]]></entry>
+
+    
+    <entry id="pinhead+str_attack_friendly_paranoid"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_attack_friendly_abusive"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_attack_friendly_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_critbyhero"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_monster_attack_unholy_smite"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_monster_attack_unholy_judgement"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_monster_attack_unholy_curse"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_monster_user_selected_targets_kill_pill"><![CDATA[<Grin>]]></entry>
+
+    <entry id="pinhead+str_bark_deathsdoor"><![CDATA[...!!!]]></entry>
+	
+  </language>
+  <language id="koreana">
+    <entry id="hero_class_name_pinhead"><![CDATA[Pinhead]]></entry>
+    <entry id="upgrade_tree_name_monk.weapon"><![CDATA[Sword]]></entry>
+    <entry id="upgrade_tree_name_monk.armour"><![CDATA[Armor]]></entry>
+    <entry id="pinhead_armour_0"><![CDATA[Ragged Armor]]></entry>
+    <entry id="pinhead_armour_1"><![CDATA[Worn Armor]]></entry>
+    <entry id="pinhead_armour_2"><![CDATA[Repaired Armor]]></entry>
+    <entry id="pinhead_armour_3"><![CDATA[Coated Armor]]></entry>
+    <entry id="pinhead_armour_4"><![CDATA["Integration"]]></entry>
+    <entry id="pinhead_weapon_0"><![CDATA[Broken Sword]]></entry>
+    <entry id="pinhead_weapon_1"><![CDATA[Damaged Sword]]></entry>
+    <entry id="pinhead_weapon_2"><![CDATA[Recovered Sword]]></entry>
+    <entry id="pinhead_weapon_3"><![CDATA[Perfect Sword]]></entry>
+    <entry id="pinhead_weapon_4"><![CDATA["Niflheim"]]></entry>
+	
+    <entry id="combat_skill_name_taste_our_pleasure"><![CDATA[taste our pleasure]]></entry>
+    <entry id="combat_skill_name_result_of_desire"><![CDATA[result of desire]]></entry>
+    <entry id="combat_skill_name_sweet_suffering"><![CDATA[sweet suffering]]></entry>
+    <entry id="combat_skill_name_no_tears_please"><![CDATA[no tears please]]></entry>
+    <entry id="combat_skill_name_you_solved_the_box"><![CDATA[you solved the box]]></entry>
+    <entry id="combat_skill_name_bring_me_the_flesh"><![CDATA[bring me the flesh]]></entry>
+    <entry id="combat_skill_name_come_to_daddy"><![CDATA[come to daddy]]></entry>
+    <entry id="combat_skill_name_pinhead_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_taste_our_pleasure"><![CDATA[taste our pleasure]]></entry>
+    <entry id="upgrade_tree_name_result_of_desire"><![CDATA[result of desire]]></entry>
+    <entry id="upgrade_tree_name_sweet_suffering"><![CDATA[sweet suffering]]></entry>
+    <entry id="upgrade_tree_name_no_tears_please"><![CDATA[no tears please]]></entry>
+    <entry id="upgrade_tree_name_you_solved_the_box"><![CDATA[you solved the box]]></entry>
+    <entry id="upgrade_tree_name_bring_me_the_flesh"><![CDATA[bring me the flesh]]></entry>
+    <entry id="upgrade_tree_name_come_to_daddy"><![CDATA[come to daddy]]></entry>
+    <entry id="camping_skill_name_dust_off"><![CDATA[Dust Off]]></entry>
+    <entry id="camping_skill_name_face_open"><![CDATA[Face Open]]></entry>
+    <entry id="camping_skill_name_filling_hole"><![CDATA[Filling Hole]]></entry>
+    <entry id="camping_skill_name_insomnia"><![CDATA[Insomnia]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[Suffer %d DMG]]></entry>
+    <entry id="skill_performer_hp_min"><![CDATA[Valid above %d%% HP]]></entry>
+	
+    <entry id="buff_rule_data_tooltip_charge"><![CDATA[Charge]]></entry>
+    <entry id="buff_rule_data_tooltip_slash"><![CDATA[Slash]]></entry>
+    <entry id="buff_rule_data_tooltip_warcry"><![CDATA[War Cry]]></entry>
+    <entry id="buff_rule_tooltip_skill_false"><![CDATA[Except %s:%s]]></entry>
+    <entry id="buff_rule_data_tooltip_dogfight"><![CDATA[Dogfight]]></entry>
+    <entry id="buff_rule_data_tooltip_pinhead"><![CDATA[Hollow Knight]]></entry>
+    <entry id="buff_rule_data_tooltip_heartbeat"><![CDATA[Stillness of Heart]]></entry>
+    <entry id="buff_rule_data_tooltip_feareater"><![CDATA[Fear Eater]]></entry>
+    <entry id="buff_rule_data_tooltip_tombstones"><![CDATA[Tombstones]]></entry>
+	
+    <entry id="action_verbose_body_guild_pinhead"><![CDATA[   ]]></entry>
+    <entry id="action_verbose_body_blacksmith_pinhead"><![CDATA[   ]]></entry>
+    <entry id="action_verbose_body_camping_trainer_pinhead"><![CDATA[   ]]></entry>
+    <entry id="town_event_title_first_pinhead"><![CDATA[The dispatched knight came back from the farm.]]></entry>
+    <entry id="town_event_title_bonus_recruit_pinhead"><![CDATA[The dispatched knight came back from the farm.]]></entry>
+    <entry id="town_event_description_first_pinhead"><![CDATA[The dispatched knight has returned to an unusual mood.]]></entry>
+    <entry id="town_event_description_bonus_recruit_pinhead"><![CDATA[The dispatched knight has returned to an unusual mood.]]></entry>
+	
+    <entry id="str_bark_dust_off"><![CDATA[...]]></entry>
+    <entry id="str_bark_face_open"><![CDATA[Do not be surprised to see.]]></entry>
+    <entry id="str_bark_filling_hole"><![CDATA[Block the hole again...]]></entry>
+    <entry id="str_bark_insomnia"><![CDATA[I will sleep later....]]></entry>
+    <entry id="pinhead+str_bark_encourage"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_encourage"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_encourage"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_first_aid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_first_aid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_first_aid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_paranoid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_afflicted_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_abusive"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_selfish"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_afflicted_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_virtued_stalwart"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_stalwart"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_virtued_courageous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_courageous"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_virtued_focused"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_focused"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_virtued_powerful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_powerful"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_virtued_vigorous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_virtued_vigorous"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_stress_heal_self_stalwart"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_stress_heal_self_stalwart"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_stress_heal_party_courageous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_stress_heal_party_courageous"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_buff_random_party_member_focused"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_buff_random_party_member_focused"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_buff_party_powerful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_buff_party_powerful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_heal_self_vigorous"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_heal_self_vigorous"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_stress_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_bark_stress_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_paranoid"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_bark_stress_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_abusive"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_bark_stress_selfish"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_bark_stress_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_irrational"><![CDATA[...]]></entry>	
+
+    <entry id="pinhead+str_change_pos_back_fearful"><![CDATA[...]]></entry>	
+
+    <entry id="pinhead+str_change_pos_back_paranoid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_change_pos_fwd_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_change_pos_fwd_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_change_pos_back_irrational"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_fwd_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_depressed"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_back_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_depressed"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_fwd_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_fwd_selfish"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_change_pos_back_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_change_pos_back_selfish"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_fearful"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_paranoid"><![CDATA[...]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_ignore_command_selfish"><![CDATA[]]></entry>
+	
+	<entry id="pinhead+str_ignore_command_depressed"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_ignore_command_irrational"><![CDATA[]]></entry>
+
+	<entry id="pinhead+str_random_command_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_abusive"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_selfish"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_random_command_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_random_command_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_camp_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_camp_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_abusive"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_selfish"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_bark_stress_camp_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_bark_stress_camp_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_mark_self_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_mark_self_depressed"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_mark_self_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_attack_self_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_attack_self_depressed"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_attack_self_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_combat_retreat_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_combat_retreat_depressed"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_block_combat_retreat_masochistic"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_block_combat_retreat_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_self_hit_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_hit_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_self_hit_selfish"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_self_hit_masochistic"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_self_hit_irrational"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_missed_fearful"><![CDATA[...]]></entry>
+
+    
+	<entry id="pinhead+str_comment_self_missed_paranoid"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_self_missed_masochistic"><![CDATA[...]]></entry>
+
+    
+    <entry id="pinhead+str_comment_self_missed_irrational"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_comment_ally_attack_hit_selfish"><![CDATA[...]]></entry>
+	
+    <entry id="pinhead+str_comment_ally_attack_hit_abusive"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_attack_hit_irrational"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_comment_ally_attack_missed_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_ally_attack_missed_paranoid"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_ally_attack_missed_abusive"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_attack_missed_selfish"><![CDATA[...?]]></entry>
+    
+
+    <entry id="pinhead+str_comment_ally_attack_missed_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_hit_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_ally_hit_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_hit_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_hit_abusive"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_comment_ally_hit_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_comment_ally_missed_fearful"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_comment_ally_missed_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_comment_ally_missed_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_fearful"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_block_move_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_abusive"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_move_irrational"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_paranoid"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_masochistic"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_depressed"><![CDATA[...]]></entry>
+
+	<entry id="pinhead+str_block_item_irrational"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_block_heal_paranoid"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_heal_masochistic"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_heal_depressed"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_heal_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_buff_paranoid"><![CDATA[...]]></entry>
+	
+
+    <entry id="pinhead+str_block_buff_masochistic"><![CDATA[...]]></entry>
+    
+
+    <entry id="pinhead+str_block_buff_depressed"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_block_buff_irrational"><![CDATA[...]]></entry>
+  
+	<entry id="pinhead+str_block_camping_skill_performer_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_fearful"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_selfish"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_performer_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_abusive"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_abusive"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_block_camping_skill_target_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_depressed"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_irrational"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_skill_target_irrational"><![CDATA[...]]></entry>
+	<entry id="pinhead+str_block_camping_meal_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_meal_paranoid"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_meal_masochistic"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_block_camping_meal_masochistic"><![CDATA[...]]></entry>
+    <entry id="seraph+str_block_camping_meal_depressed"><![CDATA[...]]></entry>
+    <entry id="seraph+str_block_camping_meal_depressed"><![CDATA[...]]></entry>
+	<entry id="pinhead+str_block_camping_meal_irrational"><![CDATA[...]]></entry>
+
+    
+    <entry id="pinhead+str_attack_friendly_paranoid"><![CDATA[...]]></entry>
+    
+	<entry id="pinhead+str_attack_friendly_abusive"><![CDATA[...]]></entry>
+
+    <entry id="pinhead+str_attack_friendly_irrational"><![CDATA[...]]></entry>
+    
+    <entry id="pinhead+str_critbyhero"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_monster_attack_unholy_smite"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_monster_attack_unholy_judgement"><![CDATA[...]]></entry>
+    <entry id="pinhead+str_monster_attack_unholy_curse"><![CDATA[...]]></entry>
+
+
+    <entry id="pinhead+str_monster_user_selected_targets_kill_pill"><![CDATA[<Grin>]]></entry>
+
+    <entry id="pinhead+str_bark_deathsdoor"><![CDATA[...!!!]]></entry>
+	
+  </language>
+ </root>
