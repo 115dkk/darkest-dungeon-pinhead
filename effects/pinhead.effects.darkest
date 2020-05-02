@@ -2,9 +2,19 @@
 
 // taste_our_pleasure
 
-effect: .name "Sniper" .target "performer" .chance 100%	.curio_result_type "positive" .keyStatus "tagged" .duration 3 .combat_stat_buff 1 .attack_rating_add 10% .on_hit true .on_miss false
+effect: .name "Pinhead Bleed 1" .target "target" .curio_result_type "negative" .chance 110%  .dotBleed 3 .duration 3	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead Bleed 2" .target "target" .curio_result_type "negative" .chance 120%  .dotBleed 3 .duration 3	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead Bleed 3" .target "target" .curio_result_type "negative" .chance 130%  .dotBleed 4 .duration 3	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead Bleed 4" .target "target" .curio_result_type "negative" .chance 140%  .dotBleed 4 .duration 3	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead Bleed 5" .target "target" .curio_result_type "negative" .chance 150%  .dotBleed 5 .duration 3	.on_hit true .on_miss false .can_apply_on_death true
 
 // result_of_desire
+
+effect: .name "Pinhead power Bleed 1" .target "target" .curio_result_type "negative" .chance 110%  .dotBleed 6 .duration 2	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead power Bleed 2" .target "target" .curio_result_type "negative" .chance 120%  .dotBleed 6 .duration 2	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead power Bleed 3" .target "target" .curio_result_type "negative" .chance 130%  .dotBleed 6 .duration 3	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead power Bleed 4" .target "target" .curio_result_type "negative" .chance 140%  .dotBleed 6 .duration 3	.on_hit true .on_miss false .can_apply_on_death true
+effect: .name "Pinhead power Bleed 5" .target "target" .curio_result_type "negative" .chance 150%  .dotBleed 6 .duration 4	.on_hit true .on_miss false .can_apply_on_death true
 
 effect: .name "Marked bleed dot buff 1" .target "performer" .curio_result_type "positive" .chance 100% .skill_instant true .buff_ids "pinhead bleed amount buff 1" .on_hit true .on_miss false
 effect: .name "Marked bleed dot buff 2" .target "performer" .curio_result_type "positive" .chance 100% .skill_instant true .buff_ids "pinhead bleed amount buff 2" .on_hit true .on_miss false
