@@ -43,6 +43,11 @@
     <entry id="buff_rule_data_tooltip_pinhead.bring_me_the_flesh"><![CDATA[bring me the flesh]]></entry>
     <entry id="buff_rule_data_tooltip_pinhead.come_to_daddy"><![CDATA[pinhead.come_to_daddy]]></entry>
 
+    	<entry id="buff_stat_tooltip_hp_dot_bleed_duration_percent"><![CDATA[%+d%% {colour_start|bleed}Bleed{colour_end} Duration Applied]]></entry>
+	<entry id="buff_stat_tooltip_hp_dot_bleed_duration_received_percent"><![CDATA[%+d%% {colour_start|bleed}Bleed{colour_end} Duration Received]]></entry>
+	<entry id="buff_stat_tooltip_hp_dot_bleed_amount_percent"><![CDATA[%+d%% {colour_start|bleed}Bleed{colour_end} Amount Applied]]></entry>
+	<entry id="buff_stat_tooltip_hp_dot_bleed_amount_received_percent"><![CDATA[%+d%% {colour_start|bleed}Bleed{colour_end} Amount Received]]></entry>
+
 	
     <entry id="action_verbose_body_guild_pinhead"><![CDATA[The cenobites of pain and pleasure, represented by Pinhead, are called devils for someone and angels for others. These are unknown beings whose origin is unknown, and they present pain or pleasure unbearable by humans. Someone will find joy in endless pain, and some may hold their lives with Pinhead's torture skills. It can also be a life-threatening attack on an enemy. However, all this requires some blood and flesh.]]></entry>
     <entry id="action_verbose_body_blacksmith_pinhead"><![CDATA[Pinhead, whose origins are unknown, use tools that, like their owners, do not know where they were made. What a blacksmith can do is fill the scratches. But that seems to be enough.]]></entry>
@@ -177,6 +182,11 @@
     <entry id="town_event_title_bonus_recruit_pinhead"><![CDATA[누군가 상자를 열었습니다]]></entry>
     <entry id="town_event_description_first_pinhead"><![CDATA[그들의 목적은 단지 상자를 연 사람에게 그들의 선물을 선사하는 것입니다. 그 선물이 괴로울지 즐거울지는 신경쓰지 않습니다.]]></entry>
     <entry id="town_event_description_bonus_recruit_pinhead"><![CDATA[세계 어느곳에서 수도사들을 부르는 상자가 열렸습니다. 수도사들은 마땅히 징벌 혹은 포상을 하러 떠날 것입니다.]]></entry>
+
+    <entry id="buff_stat_tooltip_hp_dot_bleed_duration_percent"><![CDATA[적용 시 {colour_start|bleed}출혈{colour_end} 지속시간 %+d%%]]></entry>
+	<entry id="buff_stat_tooltip_hp_dot_bleed_duration_received_percent"><![CDATA[받는 {colour_start|bleed}출혈{colour_end} 지속시간 %+d%%]]></entry>
+	<entry id="buff_stat_tooltip_hp_dot_bleed_amount_percent"><![CDATA[적용 시 {colour_start|bleed}출혈{colour_end} 피해량 %+d%%]]></entry>
+	<entry id="buff_stat_tooltip_hp_dot_bleed_amount_received_percent"><![CDATA[받는 {colour_start|bleed}출혈{colour_end} 피해량 %+d%%]]></entry>
 	
     <entry id="str_bark_sleeping_puzzle"><![CDATA[...]]></entry>
 	<entry id="str_incompatible_party_flagellant_fuck"><![CDATA[고통에서는 빛도 어둠도 찾을 수 없다.]]></entry>

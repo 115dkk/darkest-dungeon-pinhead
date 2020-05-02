@@ -1,0 +1,62 @@
+//PINHEAD SKILL EFFECTS
+
+// taste_our_pleasure
+
+effect: .name "Sniper" .target "performer" .chance 100%	.curio_result_type "positive" .keyStatus "tagged" .duration 3 .combat_stat_buff 1 .attack_rating_add 10% .on_hit true .on_miss false
+
+// result_of_desire
+
+effect: .name "Marked bleed dot buff 1" .target "performer" .curio_result_type "positive" .chance 100% .skill_instant true .buff_ids "pinhead bleed amount buff 1" .on_hit true .on_miss false
+effect: .name "Marked bleed dot buff 2" .target "performer" .curio_result_type "positive" .chance 100% .skill_instant true .buff_ids "pinhead bleed amount buff 2" .on_hit true .on_miss false
+effect: .name "Marked bleed dot buff 3" .target "performer" .curio_result_type "positive" .chance 100% .skill_instant true .buff_ids "pinhead bleed amount buff 3" .on_hit true .on_miss false
+effect: .name "Marked bleed dot buff 4" .target "performer" .curio_result_type "positive" .chance 100% .skill_instant true .buff_ids "pinhead bleed amount buff 4" .on_hit true .on_miss false
+effect: .name "Marked bleed dot buff 5" .target "performer" .curio_result_type "positive" .chance 100% .skill_instant true .buff_ids "pinhead bleed amount buff 5" .on_hit true .on_miss false
+
+effect: .name "Stealth3" .target "target" .chance 100% .stealth 1 .on_hit true .on_miss false .duration 3
+
+effect: .name "Musk Smoke AAC Debuff 1" .target "target" .curio_result_type "negative" .chance 100% .combat_stat_buff 1 .buff_ids "SmokeScreen ACC debuff 1" .on_hit true .on_miss false 
+effect: .name "Musk Smoke AAC Debuff 2" .target "target" .curio_result_type "negative" .chance 100% .combat_stat_buff 1 .buff_ids "SmokeScreen ACC debuff 2" .on_hit true .on_miss false 
+effect: .name "Musk Smoke AAC Debuff 3" .target "target" .curio_result_type "negative" .chance 100% .combat_stat_buff 1 .buff_ids "SmokeScreen ACC debuff 3" .on_hit true .on_miss false 
+effect: .name "Musk Smoke AAC Debuff 4" .target "target" .curio_result_type "negative" .chance 100% .combat_stat_buff 1 .buff_ids "SmokeScreen ACC debuff 4" .on_hit true .on_miss false 
+effect: .name "Musk Smoke AAC Debuff 5" .target "target" .curio_result_type "negative" .chance 100% .combat_stat_buff 1 .buff_ids "SmokeScreen ACC debuff 5" .on_hit true .on_miss false 
+
+effect: .name "SS SP buff 1" .target "target" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 2 .on_hit true .on_miss false 
+effect: .name "SS SP buff 2" .target "target" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 3 .on_hit true .on_miss false 
+effect: .name "SS SP buff 3" .target "target" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 4 .on_hit true .on_miss false 
+
+
+// sweet_suffering
+
+effect: .name "CS debuff 1" .target "target" curio_result_type "negative" .chance 100% .buff_ids "CS crit received debuff 1" .on_hit true .on_miss false
+effect: .name "CS debuff 2" .target "target" curio_result_type "negative" .chance 110% .buff_ids "CS crit received debuff 2" .on_hit true .on_miss false
+effect: .name "CS debuff 3" .target "target" curio_result_type "negative" .chance 120% .buff_ids "CS crit received debuff 3" .on_hit true .on_miss false
+effect: .name "CS debuff 4" .target "target" curio_result_type "negative" .chance 130% .buff_ids "CS crit received debuff 4" .on_hit true .on_miss false
+effect: .name "CS debuff 5" .target "target" curio_result_type "negative" .chance 140% .buff_ids "CS crit received debuff 5" .on_hit true .on_miss false
+
+// no_tears_please
+
+effect: .name "Patch Up Heal 1" .target "target" .curio_result_type "positive" .chance 100% .heal_percent 0.10	.on_hit true .on_miss false .queue true
+effect: .name "Patch Up Heal 2" .target "target" .curio_result_type "positive" .chance 100% .heal_percent 0.11	.on_hit true .on_miss false .queue true
+effect: .name "Patch Up Heal 3" .target "target" .curio_result_type "positive" .chance 100% .heal_percent 0.12	.on_hit true .on_miss false .queue true
+effect: .name "Patch Up Heal 4" .target "target" .curio_result_type "positive" .chance 100% .heal_percent 0.13	.on_hit true .on_miss false .queue true
+effect: .name "Patch Up Heal 5" .target "target" .curio_result_type "positive" .chance 100% .heal_percent 0.15	.on_hit true .on_miss false .queue true
+
+// you_solved_the_box
+
+effect: .name "Skeet Received Damage Debuff 1" .target "target" .curio_result_type "negative" .chance 90%  .buff_ids "SS damage received debuff 1"  .on_hit true .on_miss false
+effect: .name "Skeet Received Damage Debuff 2" .target "target" .curio_result_type "negative" .chance 100%  .buff_ids "SS damage received debuff 2"  .on_hit true .on_miss false
+effect: .name "Skeet Received Damage Debuff 3" .target "target" .curio_result_type "negative" .chance 110%  .buff_ids "SS damage received debuff 3"  .on_hit true .on_miss false
+effect: .name "Skeet Received Damage Debuff 4" .target "target" .curio_result_type "negative" .chance 120%  .buff_ids "SS damage received debuff 4"  .on_hit true .on_miss false
+effect: .name "Skeet Received Damage Debuff 5" .target "target" .curio_result_type "negative" .chance 130%  .buff_ids "SS damage received debuff 5"  .on_hit true .on_miss false
+
+effect: .name "Skeet Block Guard 1" .target "target" .chance 90% .buff_ids "msk_block_guard" .duration 2 .on_hit true .on_miss false .queue true
+effect: .name "Skeet Block Guard 2" .target "target" .chance 100% .buff_ids "msk_block_guard" .duration 2 .on_hit true .on_miss false .queue true
+effect: .name "Skeet Block Guard 3" .target "target" .chance 110% .buff_ids "msk_block_guard" .duration 2 .on_hit true .on_miss false .queue true
+effect: .name "Skeet Block Guard 4" .target "target" .chance 120% .buff_ids "msk_block_guard" .duration 2 .on_hit true .on_miss false .queue true
+effect: .name "Skeet Block Guard 5" .target "target" .chance 130% .buff_ids "msk_block_guard" .duration 2 .on_hit true .on_miss false .queue true
+
+// bring_me_the_flesh
+
+// come_to_daddy
+
+// crit
